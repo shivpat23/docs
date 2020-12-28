@@ -8,7 +8,9 @@ import { StackingErrorcodeReference, StackingFunctionReference } from '@componen
 
 ## Introduction
 
-Stacking is implemented as a smart contract using Clarity. On the testnet, you can always find the Stacking contract by this contract identifier: `ST000000000000000000002AMW42H.pox`.
+Stacking is implemented as a smart contract using Clarity. On the testnet, you can always find the Stacking contract on the testnet by this contract identifier: `ST000000000000000000002AMW42H.pox`.
+
+-> The mainnet contract identifier will be provided soon.
 
 Below is a list of public and read-only functions as well as error codes that can be returned by those methods.
 
