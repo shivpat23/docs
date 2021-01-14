@@ -85,7 +85,7 @@ On the first line, a new public function `say-hi` is declared. Public functions 
 
 The function doesn't take any parameters and simply returns "hello world" using the [`ok`](/references/language-functions#ok) response constructor.
 
-The second function, `echo-number`, is a [read-only function](/references/language-functions#define-read-only). Read-only functions are also public, but as the name implies, they can not change and variables or datamaps. `echo-number` takes an input parameter of the type `int`.
+The second function, `echo-number`, is a [read-only function](/references/language-functions#define-read-only). Read-only functions are also public, but as the name implies, they can not change any variables or datamaps. `echo-number` takes an input parameter of the type `int`.
 
 -> Clarity supports a variety of other [types](/references/language-types)
 
